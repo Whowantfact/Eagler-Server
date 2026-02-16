@@ -739,9 +739,9 @@ protection:
      # Enable or disable join/leave messages from the player's island
      ENTER_EXIT_MESSAGES: true
      # Allow fire (flint & steel use, TNT priming) Making portals is allowed.
-     FIRE: false
+     FIRE: true
      # Can extinguish fires by punching them
-     FIRE_EXTINGUISH: false
+     FIRE_EXTINGUISH: true
      # Allow fire spreading
      FIRE_SPREAD: false
      # Allow furnace use

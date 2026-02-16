@@ -1,0 +1,44 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1771192543585
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1771192561191
+  login: 1771191887409
+  kits:
+    notch: 1771102559933
+    dtools: 1771123378413
+    color: 1771103774779
+    tools: 1771124999066
+    firework: 1771106130618
+money: '0'
+lastlocation:
+  world: b5aee58f-cb9a-45a5-8f87-fa9a499753d8
+  world-name: PVP
+  x: -9.5
+  y: 4.0
+  z: -9.5
+  yaw: -27.90000343322754
+  pitch: 4.050000190734863
+last-account-name: dingy_is_hot
+logoutlocation:
+  world: b5aee58f-cb9a-45a5-8f87-fa9a499753d8
+  world-name: PVP
+  x: 25.754506162288436
+  y: 4.0
+  z: -61.85734512730565
+  yaw: -177.90000915527344
+  pitch: -11.40000057220459

@@ -973,7 +973,7 @@ protect:
     fire-spread: true
     lava-fire-spread: true
     lava-itemdamage: false
-    flint-fire: false
+    flint-fire: true
     lightning-fire-spread: true
     portal-creation: false
     tnt-explosion: false

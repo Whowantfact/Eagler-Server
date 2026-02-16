@@ -547,6 +547,8 @@ Location:
   - world-&2World
   - world_nether-&2World Nether
   - world_the_end-&2World The End
+  - ASkyBlock-&2Askyblock
+  - ASkyBlock_nether-&2Askyblock Nether
 Locations: '&7Locations: '
 command:
   help:

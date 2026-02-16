@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1771173647543
+  login: 1771173365041
+money: '0'
+lastlocation:
+  world: be1fb5ef-5204-489c-afd0-25d08b9d37d7
+  world-name: Survival
+  x: 24.26424715829956
+  y: 162.0
+  z: -11.685516067173086
+  yaw: -44.55000686645508
+  pitch: 28.05000114440918
+last-account-name: dingusdongus_
+logoutlocation:
+  world: be1fb5ef-5204-489c-afd0-25d08b9d37d7
+  world-name: Survival
+  x: -2066.768043741521
+  y: 70.0
+  z: 5440.707502144011
+  yaw: 188.25006103515625
+  pitch: 11.25
